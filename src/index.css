@@ -1,0 +1,58 @@
+
+ 
+ *{margin: 0;
+
+padding: 0;
+box-sizing: border-box;
+
+}
+
+
+
+
+.carousel-item{
+    /* margin-left: 50px; */
+    /* margin-right: 50px; */
+   margin-top: 10px;
+   width: 80vh;
+
+}
+.carousel-item img{
+    width: 80vh;
+    height: 70vh;
+}
+.img{
+    width: 100vh;
+    height: 70vh;
+}
+
+.dropdown_item{
+    background-color: blue;
+    width: 100%;
+    
+}
+.ese_ese{
+    cursor: pointer;
+}
+.raviraj:hover{
+    background-color: rgb(1, 2, 2);
+}
+.react_bar{
+    width: 90%;
+}
+.r_e{
+    width: 80%;
+}
+.r_e:hover{
+    background-color: sandybrown;
+}
+.java{
+    width: 40%;
+}
+
+.sunw{
+    margin-top: 50px;
+}
+.lodo{
+    cursor: pointer;
+}
